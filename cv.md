@@ -3,7 +3,7 @@
 * Contact info:
 
 ```
-email:     yaromahob@gmail.com
+email:     aliaksandr.ramanau.91@gmail.com
 phone:     +375298717545
 telegram:  @yaromahob
  ```
@@ -12,7 +12,7 @@ telegram:  @yaromahob
 
 * To get a position as a Frontend Developer.
 * Hi, my name is Sasha , I am from Belarus.
-* I am a future programmer who is result-oriented and knows how to cope with the task.
+* I am a future developer who is result-oriented and knows how to cope with the task.
 * Although I am just studying, but I am ready to spend as much time as it takes to achieve the goal - to become a good specialist.
 
 
